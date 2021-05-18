@@ -13,7 +13,9 @@ c = 100;
 console.log(c);
 
 function add (){
-    var e = 20
-    var f = 30
+    var e = 20;
+    var f = 30;
     console.log(a+d)
 }
+add();
+
